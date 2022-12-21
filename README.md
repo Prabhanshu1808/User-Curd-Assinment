@@ -5,6 +5,7 @@ This project is based on Spring boot Microservice application
 #### Technology used
 - Java 17 : programming language 
 - Spring boot : Web application 
+- Database : Mysql
 - Maven : Building project
 - Swagger : RESTful Documentation
 
