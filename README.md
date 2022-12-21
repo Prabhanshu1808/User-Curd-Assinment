@@ -9,7 +9,7 @@ This project is based on Spring boot Microservice application
 - Swagger : RESTful Documentation
 
 #### Web Application configuration 
-- Web Application is running on port `8001`
+- Web Application is running on port `8080`
 - You can change the configuration in `application.properties`
  
 #### Steps to run the project
@@ -28,4 +28,4 @@ Maven will install all the dependencies and followed by run the application
 
 > Swagger is already integrated and can be used for using API
 
-    http://localhost:8001/swagger-ui.html
+    http://localhost:8080/swagger-ui.html
